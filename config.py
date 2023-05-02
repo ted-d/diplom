@@ -1,7 +1,6 @@
-user_token = "vk1.a.yP3aMAv36IQL7OiRfX63u7zpy6uvi3-chujq7aDTWgiuj8OD7fdg-NTeWJg9td2xHi-JauaY7F1fQqsSh5UMopv_Yky-MLeosC-vHV_X5RwT5KL8SsUEvSnfBcZ67-36-fXSztuapsW9rPSzVNzYKmUSZ3eBw-gI5eEa7LHZQ2IPrIvRZ-ndpiREcuMfojPF-aKnTgW01vjJVnrDDauRIQ"
-group_token = "vk1.a.tnSZxL_5ZA78wqS-oCPiVWlKXGpy6Ng9rd35Vt_I5IihOfosT23GlEg4Z3bfyLKWT5xjxhZezSJ3lfL7ih4tu6it5e0utKnosXM1QYNt4C7wppyuHqrn4yk48KD1hZEK71zS593_OPjoBxPoaohd8T-jxAUnvzoS6LyBGl0iyuXhW7qEH3SeQQs4XPtMom1jl_ChdX17PBw6av4IAnyU4w"
+user_token = ""
+group_token = ""
 host="127.0.0.1"
 user = 'postgres'
 password = '2106'
 db_name = 'postgres'
-"vk1.a.mFGcV8d7fSAe5hnCCj_UUQLstnOrZ4lZNEz0BRdmGwNSD9gZp2l_Rz0-X3_SLC0HJclAr0Ynru083-ePn7iIYJDyFcKx2w1cfxBOTIPw1cMW3So3QlED8-cA7_BScCSfvDpDm7t3wtz7OrJXtwSbk9SPDF-6Wc7wrT5idtu9g605n3Kq1rA82n5uGogzHuajUXhWYt6wrUrNyIfhu0ETpg"
